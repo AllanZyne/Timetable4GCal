@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e263adf-d40f-4140-b736-f4b6c75d7029" name="Default" comment="" />
+    <ignored path="Timetable4GCal.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Timetable4GCal" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TimeTable.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TimeTable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="60" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.0852459" vertical-offset="1280" max-vertical-offset="1890">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parser.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/timetable/Parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="0" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0" vertical-offset="1062" max-vertical-offset="3132">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Data.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/timetable/Data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="129" column="17" selection-start="3216" selection-end="3216" vertical-scroll-proportion="0.0" vertical-offset="2322" max-vertical-offset="2502">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GCal.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/timetable/GCal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="175" column="16" selection-start="5773" selection-end="5773" vertical-scroll-proportion="0.0" vertical-offset="3150" max-vertical-offset="3690">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/timetable/import/html.py" />
+        <option value="$PROJECT_DIR$/timetable/html.py" />
+        <option value="$PROJECT_DIR$/foo.py" />
+        <option value="$PROJECT_DIR$/timetable/jwweb.py" />
+        <option value="$PROJECT_DIR$/timetable/time.py" />
+        <option value="$PROJECT_DIR$/timetable/data.py" />
+        <option value="$PROJECT_DIR$/timetable/CourseParser.py" />
+        <option value="$PROJECT_DIR$/Timetable4GCal.py" />
+        <option value="$PROJECT_DIR$/timetable/Time.py" />
+        <option value="$PROJECT_DIR$/timetable/Jwweb.py" />
+        <option value="$PROJECT_DIR$/share/content_pattern.xml" />
+        <option value="$PROJECT_DIR$/gcalendar.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Config.py" />
+        <option value="$PROJECT_DIR$/timetable/GCal.py" />
+        <option value="$PROJECT_DIR$/timetable/Data.py" />
+        <option value="$PROJECT_DIR$/timetable/Parser.py" />
+        <option value="$PROJECT_DIR$/TimeTable.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Timetable4GCal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Timetable4GCal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Timetable4GCal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Timetable4GCal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Timetable4GCal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="timetable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="C:/Python/27/pythonw.exe" />
+    <property name="FullScreen" value="false" />
+    <property name="last.edited.regexp" value="[12]" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true" working-directory="E:">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myWorkingDirectory" value="E:" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\阳\Documents\Workspace\Timetable4GCal\cache" />
+      <recent name="E:\Workspace\py\Timetable4GCal\timetable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.TimeTable">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Python/27/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TimeTable" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TimeTable.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonCover" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GCalendar" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Python/27/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gcalendar.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="timetable.data" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Python/27/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/timetable" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Workspace\py\Timetable4GCal\timetable\GCal.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="timetable.parser" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:/Python/27/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/timetable" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="calendar" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/timetable/Parser.py" />
+      <option name="PARAMETERS" value="timetable.parser" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.TimeTable" />
+      <item index="1" class="java.lang.String" itemvalue="Python.GCalendar" />
+      <item index="2" class="java.lang.String" itemvalue="Python.timetable.data" />
+      <item index="3" class="java.lang.String" itemvalue="Python.timetable.parser" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e263adf-d40f-4140-b736-f4b6c75d7029" name="Default" comment="" />
+      <created>1388211540459</created>
+      <updated>1389015939530</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1389015806022</created>
+      <updated>1389015939416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <option name="createChangelist" value="false" />
+    <option name="createBranch" value="false" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769832" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288948" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967235" sideWeight="0.67134833" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14787701" sideWeight="0.6737683" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16960208" sideWeight="0.28647926" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288948" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31868133" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262317" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21135029" sideWeight="0.6737683" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TimeTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="23" selection-start="2254" selection-end="2254" vertical-scroll-proportion="0.0" vertical-offset="1764" max-vertical-offset="1890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0" vertical-offset="1062" max-vertical-offset="3132">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="17" selection-start="3216" selection-end="3216" vertical-scroll-proportion="0.0" vertical-offset="2322" max-vertical-offset="2502">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/GCal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="174" column="16" selection-start="5756" selection-end="5756" vertical-scroll-proportion="0.0" vertical-offset="3132" max-vertical-offset="3690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="26" selection-start="1738" selection-end="1738" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1998">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Jwweb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="21" selection-start="519" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="1728" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="1" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0" vertical-offset="655" max-vertical-offset="1062" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="22" selection-start="1583" selection-end="1583" vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="2988">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/GCal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="0" selection-start="2928" selection-end="2928" vertical-scroll-proportion="0.0" vertical-offset="1710" max-vertical-offset="3690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="1926" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="26" selection-start="1738" selection-end="1738" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1998">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Jwweb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="21" selection-start="519" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="1728" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="331" max-vertical-offset="1044" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/20131-2011151901.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="24" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/GCal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="72" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.0" vertical-offset="1656" max-vertical-offset="3654">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="36" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="2808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="0" selection-start="2804" selection-end="2804" vertical-scroll-proportion="0.0" vertical-offset="2070" max-vertical-offset="2502">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1998">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/GCal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="72" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.0" vertical-offset="1656" max-vertical-offset="3654">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="36" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="2808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="0" selection-start="2804" selection-end="2804" vertical-scroll-proportion="0.0" vertical-offset="2070" max-vertical-offset="2502">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="13" selection-start="2252" selection-end="2252" vertical-scroll-proportion="0.0" vertical-offset="1976" max-vertical-offset="2546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/GCal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="72" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.0" vertical-offset="1748" max-vertical-offset="3857">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="2964">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="0" selection-start="2804" selection-end="2804" vertical-scroll-proportion="0.0" vertical-offset="2185" max-vertical-offset="2641">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="23" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="2546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2964">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="407" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/gdata-2.0.18/samples/calendar_resource/calendar_resource_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="9" selection-start="3252" selection-end="3252" vertical-scroll-proportion="0.09090909" vertical-offset="1547" max-vertical-offset="3402" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/20131-2011151901.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="24" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="828" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/27/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="327" column="0" selection-start="11364" selection-end="11364" vertical-scroll-proportion="0.33169532" vertical-offset="5751" max-vertical-offset="31194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/gdata-2.0.18/samples/calendar/calendarExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="394" column="0" selection-start="18348" selection-end="18348" vertical-scroll-proportion="0.5970516" vertical-offset="6723" max-vertical-offset="11088" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/27/Lib/HTMLParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="11" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.33169532" vertical-offset="1233" max-vertical-offset="8586" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="1" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0" vertical-offset="655" max-vertical-offset="1062" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="1926" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Jwweb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="21" selection-start="519" selection-end="530" vertical-scroll-proportion="-0.029508196" vertical-offset="558" max-vertical-offset="1710" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="17" selection-start="3216" selection-end="3216" vertical-scroll-proportion="0.0" vertical-offset="92" max-vertical-offset="2484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0" vertical-offset="787" max-vertical-offset="3078">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/GCal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="175" column="16" selection-start="5773" selection-end="5773" vertical-scroll-proportion="0.0" vertical-offset="3150" max-vertical-offset="3690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="60" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.0852459" vertical-offset="1280" max-vertical-offset="1890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
